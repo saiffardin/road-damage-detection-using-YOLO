@@ -1,8 +1,10 @@
 # road-damage-detection-using-YOLO
 
-    Disclaimer: 
 
-    This repository mostly contains the codes of my undergrad thesis work. But there are many other utility stuff like: datasets, cfg files, custom weight files - which are very essential to make the code work out, and sorry to say, those files are not included here as they consume a lot of storage. I will try to fix this issue asap. And will provide a detail guideline on how I've trained my models.
+
+## _**Disclaimer**_ :This repository mostly contains the codes of my undergrad thesis work. But there are many other utility stuff like: datasets, cfg files, custom weight files - which are very essential to make the code work out, and sorry to say, those files are __not included here__ as they consume a lot of storage. I will try to fix this issue asap. And will provide a detail guideline on how I've trained my models.
+
+
     
 
 ---
