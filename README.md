@@ -3,7 +3,7 @@
 
 
 ### _**Disclaimer:**_ 
-This repository mostly contains the codes of my undergrad thesis work. But there are many other utility stuff like: datasets, cfg files, custom weight files - which are very essential to make the code work out, and sorry to say, those files are __not included here__ as they consume a lot of storage. I will try to fix this issue asap. And will provide a detail guideline on how I've trained my models.
+This repository mostly contains the codes of my undergrad thesis work. But there are many other utility stuff like: datasets, cfg files, custom weight files - which are very essential to make the codes work out, and sorry to say, those files are __not included here__ as they consume a lot of storage. I will try to fix this issue asap. And will provide a detail guideline on how I've trained my models.
 
 
     
@@ -23,7 +23,7 @@ In recent times YOLO has become one of the most popular object detection algorit
 ---
 
 ### `YOLOv3 and YOLOv4:` 
-I've used two different versions of YOLO algorithm, such - YOLOv3 and YOLOv4, to make both binary and multi-class detections. So, it makes a total of 4 different models that can detect road-damages from a given image. The models can be named as following-
+I've used two different versions of YOLO algorithm, such - YOLOv3 and YOLOv4, to make both binary and multi-class detections. So, it makes a total of 4 different models that can detect road-damages from an input image. The models can be named as following-
 
 - Binary Classification using YOLOv3
 - Binary Classification using YOLOv4
